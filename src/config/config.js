@@ -12,14 +12,14 @@ export const navs = [
 ];
 
 export const router = [
-  { path: "/", key: "general", category: "general", country: "us" },
-  { path: "/general", key: "general", category: "general", country: "us" },
-  { path: "/business", key: "business", category: "business", country: "us" },
-  { path: "/sports", key: "sports", category: "sports", country: "us" },
-  { path: "/science", key: "science", category: "science", country: "us" },
-  { path: "/health", key: "health", category: "health", country: "us" },
-  { path: "/entertainment", key: "entertainment", category: "entertainment",country: "us" },
-  { path: "/technology", key: "technology", category: "technology", country: "us" }
+  { path: "/", key: "general", category: "general", country: "in" },
+  { path: "/general", key: "general", category: "general", country: "in" },
+  { path: "/business", key: "business", category: "business", country: "in" },
+  { path: "/sports", key: "sports", category: "sports", country: "in" },
+  { path: "/science", key: "science", category: "science", country: "in" },
+  { path: "/health", key: "health", category: "health", country: "in" },
+  { path: "/entertainment", key: "entertainment", category: "entertainment",country: "in" },
+  { path: "/technology", key: "technology", category: "technology", country: "in" }
 ];
 
 export const summary = "Channel and PublishedAt";
